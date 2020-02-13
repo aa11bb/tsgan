@@ -1,3 +1,1 @@
-# tsgan
-
-test
+Source code for paper "Unsupervised learning of hierarchical representations for time series with Generative Adversarial Nets"
